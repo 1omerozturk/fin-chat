@@ -1,0 +1,7 @@
+pip install pandas
+pip install yfinance
+pip install streamlit
+pip install datetime
+pip install plotly.express as px
+pip install warnings
+pip install openai
