@@ -5,3 +5,8 @@ pip install datetime
 pip install plotly.express as px
 pip install warnings
 pip install openai
+
+and API_KEY
+1.) create .env files in main folder
+2.) API_KEY="Your_API_KEY"
+3.) save it and close the file</s>
