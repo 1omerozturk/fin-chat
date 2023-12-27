@@ -5,10 +5,6 @@
 
 # .
 
-# Start Project
-*In the requirements files*
-
-# .
 
 # Start Project
 
@@ -27,9 +23,9 @@
 *2.page: Dashboard is uplad excel files show the grafics*
 ![Image 3](./images/2.png)
 
-*Bu dördüncü fotoğrafın başlığıdır.*
+*2.page: Dashboard is show the datas with grafics*
 ![Image 4](./images/3.png)
 
-*Bu altıncı fotoğrafın başlığıdır.*
+*3.page: Fin-Chat Assistant get information the chat-bot*
 ![Image 6](./images/5.png)
 
