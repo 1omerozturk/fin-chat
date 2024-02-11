@@ -12,6 +12,9 @@
 
 # .
 
+# Project Document
+![Project Document](./images/final_project.gif)
+
 # Project Images
  
 *1 page: Homepage is top assets display.*
