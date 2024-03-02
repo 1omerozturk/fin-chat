@@ -1,5 +1,14 @@
 # fin-chat 
 
+# Project Document
+![Project Document](./images/final_project.gif)
+### *Document Url:* 
+<div align="center">
+<a  href="https://www.canva.com/design/DAF8evtWEpk2fiKaVZx3-LLAvhRKEZL8Q/view?utm_content=DAF8evtWEpk&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+Document</a>
+</div>
+<br>
+<br>
 # Installition
 *In the requirements files*
 
@@ -12,15 +21,7 @@
 
 # .
 
-# Project Document
-![Project Document](./images/final_project.gif)
-### *Document Url:* 
-<div align="center">
-<a  href="https://www.canva.com/design/DAF8evtWEpk2fiKaVZx3-LLAvhRKEZL8Q/view?utm_content=DAF8evtWEpk&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-Document</a>
-</div>
-<br>
-<br>
+
 <br>
 
 
